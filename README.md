@@ -17,10 +17,16 @@ Users should be able to:
 - View the optimal layout depending on their device's screen size
 - See hover and focus states for interactive elements
 
+### Screenshot
+- Desktop
+- ![Capture1](https://github.com/makawan-silverlight/Product-preview-card-component-challenge/assets/151676624/3abc9f89-7169-4982-b0c4-48c3d386f184)
+- Mobile
+- ![Capture2](https://github.com/makawan-silverlight/Product-preview-card-component-challenge/assets/151676624/b7c8e29e-86de-42a8-9139-04642553eb16)
+
 ### Links
 
-- Solution URL: [Frontend Mentor]([https://your-solution-url.com](https://www.frontendmentor.io/solutions/product-preview-card-component-using-html-css-flex-ZPRzkWgewM))
-- Live Site URL: [[Add live site URL here](https://your-live-site-url.com](https://makawan-silverlight.github.io/Product-preview-card-component-challenge/))
+- Solution URL: [https://www.frontendmentor.io/solutions/product-preview-card-component-using-html-css-flex-ZPRzkWgewM](https://www.frontendmentor.io/solutions/product-preview-card-component-using-html-css-flex-ZPRzkWgewM)
+- Live Site URL: [https://makawan-silverlight.github.io/Product-preview-card-component-challenge/](https://makawan-silverlight.github.io/Product-preview-card-component-challenge/)
 
 ### Built with
 
